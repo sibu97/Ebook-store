@@ -1,0 +1,23 @@
+{
+  "name": "ebook-store",
+  "version": "1.0.0",
+  "description": "\"# Ebook-store\"",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sibu97/Ebook-store.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sibu97/Ebook-store/issues"
+  },
+  "homepage": "https://github.com/sibu97/Ebook-store#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
